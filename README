@@ -1,0 +1,7 @@
+echo "# -Exercice-NPM-Dragon-Smaug" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Antoha2033/-Exercice-NPM-Dragon-Smaug.git
+git push -u origin main
